@@ -110,5 +110,12 @@
     "jaar": 2020,
     "item": "Groen dak",
     "value": 0.03
+  },
+  {
+    "id": 4,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Isolatie muren",
+    "value": null
   }
 ]
