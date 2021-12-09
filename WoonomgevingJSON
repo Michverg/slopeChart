@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Dubbel glas of driedubbel glas",
+    "value": 0.92
+  },
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Dubbel glas of driedubbel glas",
+    "value": 0.94
+  },
+  {
+    "id": 2,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Energiezuinige ketel",
+    "value": 0.61
+  },
+  {
+    "id": 2,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Energiezuinige ketel",
+    "value": 0.71
+  },
+  {
+    "id": 3,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Gebruik regenwater",
+    "value": 0.36
+  },
+  {
+    "id": 3,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Gebruik regenwater",
+    "value": 0.37
+  },
+  {
+    "id": 4,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Groen dak",
+    "value": 0.02
+  },
+  {
+    "id": 4,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Groen dak",
+    "value": 0.03
+  },
+  {
+    "id": 5,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Isolatie dak",
+    "value": 0.83
+  },
+  {
+    "id": 5,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Isolatie dak",
+    "value": 0.88
+  },
+  {
+    "id": 6,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Isolatie muren",
+    "value": 0.66
+  },
+  {
+    "id": 6,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Warmtepomp",
+    "value": 0.16
+  },
+  {
+    "id": 7,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Zonneboiler",
+    "value": 0.06
+  },
+  {
+    "id": 7,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Zonneboiler",
+    "value": 0.06
+  },
+  {
+    "id": 8,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2017,
+    "item": "Zonnepanelen",
+    "value": 0.17
+  },
+  {
+    "id": 8,
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2020,
+    "item": "Zonnepanelen",
+    "value": 0.29
+  }
+]
